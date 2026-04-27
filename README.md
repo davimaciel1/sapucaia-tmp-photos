@@ -1,0 +1,2 @@
+# sapucaia-tmp-photos
+tmp
